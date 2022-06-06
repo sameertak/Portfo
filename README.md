@@ -15,7 +15,3 @@ You can check my Portfolio over here:- http://samir0951.pythonanywhere.com/
 I took help of Pythonanywhere to publish my page.
 
 --------------------------------------------------------------------------
-
-If you found helpful then Pleas leave a Star :)
-
---------------------------------------------------------------------------
